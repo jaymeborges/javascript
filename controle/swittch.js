@@ -23,4 +23,4 @@ const imprimirResultado = function (nota){
     }
 }
 
-imprimirResultado(3)
+imprimirResultado(11)
